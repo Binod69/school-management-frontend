@@ -1,5 +1,3 @@
-import React from 'react';
-
 const FrontLayout = ({ children }: { children: React.ReactNode }) => {
   return (
     <>
